@@ -23,7 +23,7 @@
     "@angular/router": "^5.0.0-beta.3",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
-    "angular-cli-red": "file:../angular-cli-red",
+    "angular-cli-red": "https://github.com/intellix/angular-cli-red",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
